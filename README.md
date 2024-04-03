@@ -1,5 +1,3 @@
-# hokify
-
 # README
 
 ## Setting Up AWS Credentials
